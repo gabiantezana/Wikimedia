@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Wikimedia.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
